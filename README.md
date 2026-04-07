@@ -1,6 +1,6 @@
 # Weather API
 
-A RESTful Weather API built with Java Spring Boot that fetches weather data from Visual Crossing's Weather API with Redis caching and rate limiting.
+ RESTful Weather API built with Java Spring Boot that fetches weather data from Visual Crossing's Weather API with Redis caching and rate limiting.
 
 ## Features
 
